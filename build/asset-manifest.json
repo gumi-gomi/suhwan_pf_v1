@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.b69d1b8d.css",
-    "main.js": "./static/js/main.f5472d9e.js",
-    "static/media/firebasevideo.mp4": "./static/media/firebasevideo.920ca884d83b9418adca.mp4",
+    "main.css": "./static/css/main.1f52fd58.css",
+    "main.js": "./static/js/main.05f7ff25.js",
     "static/media/starbucksvideo.mp4": "./static/media/starbucksvideo.d7adeb0726046e026694.mp4",
     "static/media/applestorevideo.mp4": "./static/media/applestorevideo.8af437961d475b0af074.mp4",
     "static/media/cgvvideo.mp4": "./static/media/cgvvideo.44ceb12f53746bdb49cc.mp4",
     "static/media/cardgamebg.png": "./static/media/cardgamebg.5fa5a1b1242c4d910d82.png",
     "static/media/cardgamevideo.mp4": "./static/media/cardgamevideo.7e2ac3916f25ede3003e.mp4",
     "static/media/suhwan_black.png": "./static/media/suhwan_black.293a95cd679366d1ad85.png",
+    "static/media/firebasevideo.mp4": "./static/media/firebasevideo.2b6b3b5a85ad78034431.mp4",
     "static/media/todovideo.mp4": "./static/media/todovideo.5858bc12ab6c03e01eef.mp4",
     "static/media/paperdesc.jpg": "./static/media/paperdesc.659d2fe0a7c76959d1a6.jpg",
     "static/media/paperbg.jpg": "./static/media/paperbg.5ca218d03390f575fc6e.jpg",
+    "static/media/fbbg.png": "./static/media/fbbg.a325058e6e0e0d7f7599.png",
     "static/media/cgvbg.png": "./static/media/cgvbg.04d4e670eefb9dd6a3ff.png",
     "static/media/giphy.gif": "./static/media/giphy.1e3494a668dec72b36b7.gif",
     "static/media/sbbg.png": "./static/media/sbbg.2f59ade3091959f6f83e.png",
-    "static/media/fbbg.png": "./static/media/fbbg.3beb65f31e4c3f1d239d.png",
     "static/media/apbg.png": "./static/media/apbg.ae6808be360eddcc343a.png",
     "static/media/todolistbg.png": "./static/media/todolistbg.ce9e4c7b10e94d701512.png",
     "index.html": "./index.html",
-    "main.b69d1b8d.css.map": "./static/css/main.b69d1b8d.css.map",
-    "main.f5472d9e.js.map": "./static/js/main.f5472d9e.js.map"
+    "main.1f52fd58.css.map": "./static/css/main.1f52fd58.css.map",
+    "main.05f7ff25.js.map": "./static/js/main.05f7ff25.js.map"
   },
   "entrypoints": [
-    "static/css/main.b69d1b8d.css",
-    "static/js/main.f5472d9e.js"
+    "static/css/main.1f52fd58.css",
+    "static/js/main.05f7ff25.js"
   ]
 }
