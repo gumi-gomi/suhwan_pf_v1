@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.40c82c46.css",
+    "main.js": "./static/js/main.bc5d31d4.js",
+    "static/media/kmongvideo.mp4": "./static/media/kmongvideo.abc8ca3f26aee2c404d9.mp4",
+    "static/media/starbucksvideo.mp4": "./static/media/starbucksvideo.d7adeb0726046e026694.mp4",
+    "static/media/applestorevideo.mp4": "./static/media/applestorevideo.8af437961d475b0af074.mp4",
+    "static/media/cgvvideo.mp4": "./static/media/cgvvideo.44ceb12f53746bdb49cc.mp4",
+    "static/media/cardgamebg.png": "./static/media/cardgamebg.5fa5a1b1242c4d910d82.png",
+    "static/media/cardgamevideo.mp4": "./static/media/cardgamevideo.7e2ac3916f25ede3003e.mp4",
+    "static/media/suhwan_black.png": "./static/media/suhwan_black.293a95cd679366d1ad85.png",
+    "static/media/firebasevideo.mp4": "./static/media/firebasevideo.2b6b3b5a85ad78034431.mp4",
+    "static/media/todovideo.mp4": "./static/media/todovideo.5858bc12ab6c03e01eef.mp4",
+    "static/media/kmongbg.png": "./static/media/kmongbg.f5332e4aefb9c3fa0e5b.png",
+    "static/media/paperdesc.jpg": "./static/media/paperdesc.659d2fe0a7c76959d1a6.jpg",
+    "static/media/paperbg.jpg": "./static/media/paperbg.5ca218d03390f575fc6e.jpg",
+    "static/media/fbbg.png": "./static/media/fbbg.a325058e6e0e0d7f7599.png",
+    "static/media/cgvbg.png": "./static/media/cgvbg.04d4e670eefb9dd6a3ff.png",
+    "static/media/giphy.gif": "./static/media/giphy.1e3494a668dec72b36b7.gif",
+    "static/media/apbg.png": "./static/media/apbg.ae6808be360eddcc343a.png",
+    "static/media/todolistbg.png": "./static/media/todolistbg.ce9e4c7b10e94d701512.png",
+    "index.html": "./index.html",
+    "main.40c82c46.css.map": "./static/css/main.40c82c46.css.map",
+    "main.bc5d31d4.js.map": "./static/js/main.bc5d31d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c82c46.css",
+    "static/js/main.bc5d31d4.js"
+  ]
+}
